@@ -1,0 +1,7 @@
+requests
+2captcha-python
+faker
+python-dotenv
+loguru
+colorama
+tabulate
